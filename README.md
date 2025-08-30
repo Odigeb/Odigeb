@@ -6,7 +6,10 @@
 - 😄 Pronouns:his,him.his
 - ⚡ Fun fact:I enjoy learning new technologies and exploring innovation solutions in the field of IT and Cybersecurity.
 
-<SKILLS:Programming Languages🥇Phyton 1&2,Java,javaScript///Development frameworks:HTML/CSS,REACT,Node.js ///Database:MySQL, MongoDB ///Operating Systems:Windows,Linux,macOS.
+<SKILLS:Programming Languages🥇Phyton 1&2,Java,javaScript
+///Development frameworks:HTML/CSS,REACT,Node.js 
+///Database:MySQL, MongoDB 
+///Operating Systems:Windows,Linux,macOS.
 
 <Projects:
 
