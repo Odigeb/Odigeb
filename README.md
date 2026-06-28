@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bernardo "Ben" Odige 👋 🇭🇹🇺🇸</h1>
+<h1 align="center">Hi, I'm Bernado "Ben" Odige 👋 🇭🇹🇺🇸</h1>
 <h3 align="center">IT | Healthcare IT | Legal Tech | Real Estate | Renovation | Boston</h3>
 
 <p align="center">
@@ -16,9 +16,9 @@ Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA
 - 🎂 **Birthday:** February 19
 
 **<DISCIPLINES & FIELDS OF STUDY>**
-- **Information Technology** – A.S. Transfer Option, BHCC | Expected Aug 2027
-- **Paralegal Studies** – A.S., BHCC | Expected Aug 2028  
-- **Healthcare IT** – Certificate, BHCC | Completed Sept 2025
+- **Information Technology** – A.S. Transfer Option, BHCC | Expected Aug 2026
+- **Paralegal Studies** – A.S., BHCC | Expected Aug 2027 
+- **Healthcare IT** – Certificate, BHCC | Completed Sept 2026
 - **IT Support, Networking & Security** – Certificate, BHCC | Completed May 2025
 - **Real Estate** – License Course, Colibri Real Estate | Completed
 - **Lead Renovation** – Certificate | Certified
