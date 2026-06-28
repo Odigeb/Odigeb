@@ -35,7 +35,7 @@ Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA
 - 
 **<EDUCATION & COURSEWORK - BHCC>**
 
-**A.S. Information Technology – Transfer Option** | Expected Aug 2027 | **GPA: 3.5**
+**A.S. Information Technology – Transfer Option** | Expected Aug 2026 | **GPA: 3.5**
 - `Java Programming I` **← Core Language**
 - `Java Programming II` **← Advanced Java**
 - `Java Application Development` **← Full-Stack Java**
@@ -60,13 +60,13 @@ Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA
 - `Windows Server Administration`
 - `Cloud Computing Fundamentals`
 
-**Healthcare IT Certificate** | Completed Sept 2025
+**Healthcare IT Certificate** | Completed May 2026
 - `Intro to Healthcare IT`
 - `Electronic Health Records`
 - `Healthcare Data Security & HIPAA`
 - `Clinical Workflows & Systems`
 
-**A.S. Paralegal Studies** | Expected Aug 2028
+**A.S. Paralegal Studies** | Expected Aug 2027
 - `Intro to Law & Paralegal Studies`
 - `Legal Research & Writing I`
 - `Legal Research & Writing II`
