@@ -12,14 +12,14 @@
 ### About Me
 Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA 🇺🇸. I'm a multi-disciplinary professional, entrepreneur, and Christian bridging IT, Law, Healthcare, Real Estate, and Construction. Currently dual-majoring at Bunker Hill Community College with a 3.5 GPA. I also have a passion for modeling and acting.
 
-- 👋 **Hi, I'm Bernado Odige** | **HTUS** | Bernagi0&Ben `@ll_divo`
+- 👋 **Hi, I'm Bernado Odige** | **HTUS** | Bernagio&Ben `@ll_divo`
 - 💼 **Entrepreneur** | Customer service pro | Real estate investor
 - 🎂 **Birthday:** February 19
 
 **<DISCIPLINES & FIELDS OF STUDY>**
-- **Information Technology** – A.S. Transfer Option, BHCC | Expected Aug 2027
-- **Paralegal Studies** – A.S., BHCC | Expected Aug 2028  
-- **Healthcare IT** – Certificate, BHCC | Completed Sept 2025
+- **Information Technology** – A.S. Transfer Option, BHCC | Expected Aug 2026
+- **Paralegal Studies** – A.S., BHCC | Expected Aug 2027
+- **Healthcare IT** – Certificate, BHCC | Completed Sept 2026
 - **IT Support, Networking & Security** – Certificate, BHCC | Completed May 2025 | **Certified**
 - **Real Estate** – License Course, Colibri Real Estate | Completed | **Investor**
 - **Lead Renovation** – Certificate | Certified
