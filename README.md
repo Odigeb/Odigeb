@@ -12,7 +12,7 @@
 ### About Me
 Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA 🇺🇸. I'm a multi-disciplinary professional bridging IT, Law, Healthcare, Real Estate, and Construction. Currently dual-majoring at Bunker Hill Community College with a 3.5 GPA. I also have a passion for modeling and acting.
 
-- 👋 **Hi, I'm Bernardo Odige** aka Ben/Belnando/Bernagio
+- 👋 **Hi, I'm Bernardo Odige** "Ben"
 - 🎂 **Birthday:** February 19
 
 **<DISCIPLINES & FIELDS OF STUDY>**
