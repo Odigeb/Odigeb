@@ -10,22 +10,24 @@
 </p>
 
 ### About Me
-Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA 🇺🇸. I'm a multi-disciplinary professional bridging IT, Law, Healthcare, Real Estate, and Construction. Currently dual-majoring at Bunker Hill Community College with a 3.5 GPA. I also have a passion for modeling and acting, and I love networking with creatives.
+Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA 🇺🇸. I'm a multi-disciplinary professional bridging IT, Law, Healthcare, Real Estate, and Construction. Currently dual-majoring at Bunker Hill Community College with a 3.5 GPA. I also have a passion for modeling and acting.
 
-- 👋 **Hi, I'm Bernardo Odige**  Ben/Belnando/Bernagio
-- 💡 **Interests:** IT Support, Networking & Security, Healthcare IT, Legal Tech, Real Estate Tech, Lead Renovation, Modeling, Acting
-- 🎓 **Education & Licenses:**
-    - **A.S. Information Technology – Transfer Option**, Bunker Hill Community College – Expected Aug 2026 | **GPA: 3.5**
-    - **A.S. Paralegal Studies**, Bunker Hill Community College – Expected Aug 2027
-    - **Healthcare IT Certificate**, BHCC – Completed Sept 2026
-    - **IT Support, Networking & Security Certificate**, BHCC – Completed May 2025
-    - **Real Estate License Course**, Colibri Real Estate – Completed
-    - **Lead Renovation Certificate** – Certified
+- 👋 **Hi, I'm Bernardo Odige** aka Ben/Belnando/Bernagio
+- 🎂 **Birthday:** February 19
+
+**<DISCIPLINES & FIELDS OF STUDY>**
+- **Information Technology** – A.S. Transfer Option, BHCC | Expected Aug 2027
+- **Paralegal Studies** – A.S., BHCC | Expected Aug 2028  
+- **Healthcare IT** – Certificate, BHCC | Completed Sept 2025
+- **IT Support, Networking & Security** – Certificate, BHCC | Completed May 2025
+- **Real Estate** – License Course, Colibri Real Estate | Completed
+- **Lead Renovation** – Certificate | Certified
+- **Modeling & Acting** – Professional training & experience
+
 - 🌐 **Languages:** Haitian Creole (Native), English (Fluent), French (Fluent), Spanish (Intermediate)
 - 🤝 **Volunteer Work:** Helping people find homes, Usher at my church, Community donations, Assisting people with disabilities, Member of BHCC Immigrant Association
 - 👨‍💻 **Experience:** Customer service pro | Lead renovations | Real estate investor | Former: Haiti Inter Presse
 - 📫 **How to reach me:** bernardo.odige@bhcc.edu | [LinkedIn](https://www.linkedin.com/in/odigeb)
-- 🎂 **Birthday:** February 19
 - ⚡ **Fun fact:** Ready for the spotlight — tech by day, creative by passion!
 
 **<TECH STACK>**  
@@ -42,7 +44,3 @@ Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA
 - **🏠 PropTech Boston Analyzer** `Coming Soon` - Real estate data dashboard with React + Node.js
 - **🔨 Renovation Cost Estimator** `Coming Soon` - Tool for lead-safe renovation budgeting
 
-**<GITHUB STATS>**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odigebernado&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
