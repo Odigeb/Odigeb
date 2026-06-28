@@ -17,7 +17,6 @@ Originally from Port-au-Prince, Haiti 🇭🇹, now based in Lynn/Somerville, MA
 
 - 👋 **Hi, I'm Bernado Odige** | **HTUS** | (Bernagio & Ben)`@ll_divo`
 - ☕ **Java Developer** | **CompTIA Track** | Entrepreneur | Customer service pro | Real estate investor
-- 🎂 **Birthday:** February 19
 - 
 **<DISCIPLINES & FIELDS OF STUDY>**
 - **Information Technology** – A.S. Transfer Option, BHCC | Expected Aug 2026
